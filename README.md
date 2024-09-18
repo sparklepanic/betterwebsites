@@ -10,3 +10,5 @@ This is the betterwebsites theme. This is a simple gohugo theme that I’ve been
 
 1. `cd` int your hugo site
 2. `git submodule update --remote`
+
+This is a test
